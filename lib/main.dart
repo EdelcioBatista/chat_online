@@ -4,7 +4,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 
 void main() {
 
-  Firestore.instance.collection("teste").document("teste").setData({"teste" : "teste"});
+  Firestore.instance.collection("teste2").document("teste").setData({"teste" : "teste2"});
 
   runApp(MyApp());
 }
