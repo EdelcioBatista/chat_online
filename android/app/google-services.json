@@ -15,14 +15,6 @@
       },
       "oauth_client": [
         {
-          "client_id": "458094024709-uak4tnhfi4nb3aqnpbpqr4g411rdm9p1.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "br.com.edelciobatista.chat_online",
-            "certificate_hash": "8ad9315ac339f322e93ebab1802ca56cf70a48db"
-          }
-        },
-        {
           "client_id": "458094024709-hlpo16rbeq12tiq4esf1eakd60fl149b.apps.googleusercontent.com",
           "client_type": 3
         }
